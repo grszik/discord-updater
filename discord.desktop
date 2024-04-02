@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Discord
+Exec=discord
+Type=Application
+Terminal=false
+Icon=/usr/share/icons/discord.png
+Categories=Network;
+
