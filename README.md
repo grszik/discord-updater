@@ -1,2 +1,2 @@
-# discord-updater
-A script to update discord automatically
+# Discord Updater
+Update discord on linux using just one script!
